@@ -14,7 +14,7 @@ tl;dr kuidas giti kasutada
 1. **Enne tööle asumist tõmba repost kõige uuemad failid**
 > git pull
 
-2. **Peale muudatuste tegemist lisad muudetud failid**
+2. **Peale muudatuste tegemist lisad kõik muudetud failid**
 > git add .
 
 3. **Commitid ja kommenteerid oma muudatusi**
