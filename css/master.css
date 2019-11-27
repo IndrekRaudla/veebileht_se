@@ -1,3 +1,63 @@
 body {
   background-color: powderblue;
 }
+
+.üleval{
+  background-color: red;
+  width: 90%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
+
+}
+
+.pilt_üleval {
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.põhiinfo{
+  background-color: green;
+  width: 60%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  object-fit: contain;
+
+}
+
+.vasakpoolne {
+  max-width: 15%;
+  margin-left: inherit;
+
+  background-color: yellow;
+  float: left;
+
+}
+
+.parempoolne {
+  float: right;
+  text-align: center;
+  background-color: yellow;
+  max-width: 15%;
+  margin-right: auto;
+
+}
+
+.pilt_paremal{
+  max-width: 50%;
+  max-height: 50%;
+}
+
+.meie_info {
+  background-color: red;
+  width: 90%;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
