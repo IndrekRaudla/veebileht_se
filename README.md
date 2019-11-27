@@ -5,9 +5,12 @@ Sissejuhatus Erialasse LTAT.03.002 käigus grupitööna loodud veebilehe projekt
 tl;dr kuidas giti kasutada
 
 **Esiteks, tõmba omale repo arvutisse**
-**Ainult ühekordne tegevus**
+
+**Ainult ühekordne tegevus!**
 > git clone https://github.com/IndrekRaudla/veebileht_se.git
 
+
+**Igapäevaselt**
 1. **Enne tööle asumist tõmba repost kõige uuemad failid**
 > git pull
 
