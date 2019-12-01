@@ -1,3 +1,14 @@
+@font-face {
+	font-family: Qwerty Ability;
+	src: url("Qwerty_Ability.otf");
+}
+
+h1 {
+	font-family: Qwerty Ability;
+  font-size: 100 px;
+  margin: 0px
+}
+
 body {
   background-color: powderblue;
 }
@@ -19,7 +30,7 @@ body {
 }
 
 .põhiinfo{
-  background-color: green;
+  background-color: rgb(4, 255, 4);
   width: 60%;
   text-align: center;
   display: block;
