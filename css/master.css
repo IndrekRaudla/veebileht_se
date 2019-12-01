@@ -1,14 +1,3 @@
-@font-face {
-	font-family: Qwerty Ability;
-	src: url("Qwerty_Ability.otf");
-}
-
-h1 {
-	font-family: Qwerty Ability;
-  font-size: 100 px;
-  margin: 0px
-}
-
 body {
   background-color: powderblue;
 }
