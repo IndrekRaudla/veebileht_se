@@ -46,6 +46,17 @@ img {
   	max-width: 50vw;
 }
 
+.meedia {
+    width: 75px;
+    height: 75px;
+	text-align: center;
+}
+
+.meedia img {
+	width: 100%;
+	height: auto;
+}
+
 .footer {
   	position: relative;
 	object-fit: contain;
@@ -54,22 +65,37 @@ img {
 
 }
 
-a:link, a:visited {
+a.söögid:link, a.söögid:visited {
   color: white;
-  padding: 14px 25px;
+  font-weight: bold;
+  padding: 5px 10px;
   text-align: center;
   text-decoration: none;
+  border-bottom: 1px solid white;
   display: inline-block;
 }
 
-a:hover, a:active {
+a.tekst:link, a.tekst:visited {
+	color:white;
+	padding-bottom: 1px;
+	text-align: center;
+	text-decoration: none;
+	border-bottom: 1px solid white;
+	display: inline-block;
+}
 
+a.söögid:hover, a.söögid:active {
+	border-bottom: 1px solid black;
+}
+
+a.tekst:hover, a.tekst:active {
+	border-bottom: 1px solid black;
 }
 
 .footer {
   	position: absolute;
  	width: 100%;
-  	background-color: red;
+  	background-color: DarkSlateBlue;
   	color: white;
   	text-align: center;
 	overflow: hidden;
