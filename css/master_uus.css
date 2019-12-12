@@ -95,6 +95,7 @@ a.tekst:hover, a.tekst:active {
 .footer {
   	position: absolute;
  	width: 100%;
+	padding: 5px;
   	background-color: DarkSlateBlue;
   	color: white;
   	text-align: center;
