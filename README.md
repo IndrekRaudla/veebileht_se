@@ -1,28 +1,5 @@
 # veebileht_se
 Sissejuhatus Erialasse LTAT.03.002 käigus grupitööna loodud veebilehe projekt.
-
-
-tl;dr kuidas giti kasutada
-
-**Esiteks, tõmba omale repo arvutisse**
-
-**Ainult ühekordne tegevus!**
-> git clone https://github.com/IndrekRaudla/veebileht_se.git
-
-
-**Igapäevaselt**
-1. **Enne tööle asumist tõmba repost kõige uuemad failid**
-> git pull
-
-2. **Peale muudatuste tegemist lisad kõik muudetud failid**
-> git add .
-
-3. **Commitid ja kommenteerid oma muudatusi**
-> git commit -m"Kommentaar sinu tehtud muudatuste kohta"
-
-4. **Laed oma muudatused githubi/reposse üles**
-> git push
-
 ______________________________________________________________________
 **Mida veebileht tutvustab või mis on selle lehe eesmärk**
 > Meie veebileht teoorias võiks olla lehekülg, kus on kirjas jõulutoidud ning nende retseptid. Lisaks lihtsalt retseptidele,
@@ -46,3 +23,29 @@ ______________________________________________________________________
 > Küll aga on see meie tehtud.<br>
 > Õppisime GIT'i kasutama, õppisime natukene veebilehte tegema, õppisime MERGE CONFLICTE LAHENDAMA. Kokkuvõttes hea ja õpetlik 
 > kogemus.
+______________________________________________________________________
+
+
+
+
+
+tl;dr kuidas giti kasutada
+
+**Esiteks, tõmba omale repo arvutisse**
+
+**Ainult ühekordne tegevus!**
+> git clone https://github.com/IndrekRaudla/veebileht_se.git
+
+
+**Igapäevaselt**
+1. **Enne tööle asumist tõmba repost kõige uuemad failid**
+> git pull
+
+2. **Peale muudatuste tegemist lisad kõik muudetud failid**
+> git add .
+
+3. **Commitid ja kommenteerid oma muudatusi**
+> git commit -m"Kommentaar sinu tehtud muudatuste kohta"
+
+4. **Laed oma muudatused githubi/reposse üles**
+> git push
