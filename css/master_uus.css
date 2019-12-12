@@ -4,15 +4,15 @@ body {
 }
 
 p{
-	color: #d6d6d6;
+	color: #FFB2B2;
 }
 
 a{
-	color: #d6d6d6;
+	color: #FFB2B2;
 }
 
 h1{
-	color: #d6d6d6;
+	color: #FFB2B2;
 }
 
 .üleval{
@@ -123,4 +123,15 @@ a.tekst:hover, a.tekst:active {
  	content: "";
  	display: table;
  	clear: both;
+}
+
+table{
+	background-color: #FFB2B2;
+	border-radius: 5px;
+	padding: 20px;
+	border-color: #8f1a1a;
+	border-style: double;
+}
+li{
+	padding: 10px;
 }
