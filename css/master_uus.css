@@ -68,7 +68,10 @@ img {
 a.söögid:link, a.söögid:visited {
   color: white;
   font-weight: bold;
-  padding: 5px 10px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 5px;
+  padding-right: 5px;
   text-align: center;
   text-decoration: none;
   border-style: solid;
@@ -109,7 +112,7 @@ a.tekst:hover, a.tekst:active {
 
 /* THIS IS THE SHIT LIHTSALT */
 .column1 {
-	padding-top: 20px;
+	padding-top: 10px;
  	float: left;
  	width: 20%;
 }
